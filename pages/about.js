@@ -11,6 +11,7 @@ const about = () => {
             <p className="text-center sub-heading">
               grow your BUSINESS with us
             </p>
+            {/* ss */}
             <div className="row">
               <div className="col-md-6 col-12 hero-text">
                 <figure>
